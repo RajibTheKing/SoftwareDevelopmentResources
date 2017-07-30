@@ -4,37 +4,12 @@ Media Team (Gift): Total Cost = 4500
 For Maruf: 2250
 For Maksud Vai: 2250
 
-Gift For Maruf:
-------------------------
-Samaun Vai 	: 250
-Maksud Vai 	: 250
-Nayeem Vai 	: 250
-Tuhin      	: 250
-Rajib		: 250
-Fahad		: 250
-Maruf		: Maruf will not give anything for his own gift
-Mansur		: 250
-Sakib		: 250
-Tahmid		: 250
 
-Gift For Maksud Vai:
----------------------------
-Samaun Vai	: 250
-Maksud Vai	: Maksud Vai will not give anything for his own gift
-Nayeem Vai	: 250
-Tuhin		: 250
-Rajib		: 250
-Fahad		: 250
-Maruf		: 250
-Mansur		: 250
-Sakib		: 250
-Tahmid		: 250
+Now a clean and clear list is provided distributing the amount equally
+----------------------------------------------------------------------------
 
-
-Now a clean and clear list is prov
----------------------------------
-Maksud Vai	: 250
-Maruf		: 250
+Maksud Vai	: 250 Maksud Vai should not give anything for his own gift
+Maruf		: 250 Maruf should not give anything for his own gift
 
 Samaun Vai	: 500
 Nayeem Vai	: 500
